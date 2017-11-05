@@ -1,2 +1,2 @@
 # LeetCode
-my leetcode solution and thought
+### My leetcode solution and thought!
