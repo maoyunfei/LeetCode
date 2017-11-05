@@ -1,4 +1,4 @@
-https://leetcode.com/problems/hamming-distance/description/
+[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/)
 
 这道题其实是要计算两个数“异或”运算之后，结果的二进制表示中有多少个‘1’。
 
