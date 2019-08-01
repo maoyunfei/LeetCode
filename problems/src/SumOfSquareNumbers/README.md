@@ -1,0 +1,1 @@
+[Sum of Square Numbers](https://leetcode-cn.com/problems/sum-of-square-numbers/description/)
